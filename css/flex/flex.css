@@ -1,0 +1,34 @@
+.row{
+    background-color: cyan;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items:start;
+    /* start center end */
+    justify-content:space-evenly;
+    /* space-between  , space-evently , center */
+
+    flex-direction:row;
+    /* colimn , column-reverse , row,row-reverse */
+}
+
+.col{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+.col1{
+    background-color: aliceblue;
+}
+.col2{ margin-top: 25px;
+    background-color: yellow;
+}
+.col3{
+     margin-top: 50px;
+    background-color: brown;
+}
+.col4{
+    margin-top: 100px;
+    background-color: black;
+}

@@ -1,0 +1,56 @@
+img{
+    width: 362px;
+    height: 113px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+h2{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+#ultag{
+
+    display: flex;
+    justify-content:left;
+    margin-left: 48px;
+    margin-top: 10px;
+    
+    
+    
+}
+ul a{
+    margin: 5px;
+}
+
+*{
+margin: 0px;
+padding: 0px;
+}
+p{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+h3{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#aa{
+    margin-left: 50px;
+
+}
+#ullist{
+    margin-top: 20px;
+    margin-left: 85px;
+}
+ol{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+table{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+iframe{
+    margin-left: 50px;
+    margin-top: 20px;
+}

@@ -1,0 +1,119 @@
+img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+h1{
+    font:bolder;
+    font-size: larger;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 80px;
+}
+#fp a{
+    margin-left: 63px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+li{
+    margin: 5px;
+}
+.container{
+    background-color:aliceblue;
+    width: 800px;
+    height: 800px;
+    padding: auto;
+    
+}
+section{
+    width: 100%;
+    height: 800px;
+}
+
+#inp{
+    width: 415px;
+}
+th,td{
+   padding: 20px; 
+    
+
+}
+#Area{
+    width: 80px;
+
+}
+#phn{
+    width: ;
+    margin-left: 0;
+}
+#row{
+    padding: 0px;
+    margin: 0;
+}
+th{
+    background-color: ;
+}
+body{
+    background-color:aliceblue ;
+}
+#row{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+#inp1{
+    margin-left: 100px;
+}
+#inp2{
+    margin-left: 75px ;
+}
+#inp2 input{
+    width: 477px;
+}
+#inp3{
+    margin-left: 106px;
+    
+}
+#inp3 input{
+    width: 477px;
+}
+#inp4{
+    margin-left: 99px;
+}
+#inp4 input{
+    width: 80px;
+}
+#inp5{
+    margin-left: 50px;
+}
+#inp5 input{
+    width: 346px;
+}
+#select{
+    margin-left: 93px;
+}
+#select select{
+    width: 475px;
+}
+#abc{
+    margin-left: 42px;
+    margin-top: 50px;
+}
+#btn{
+    width: 130px;
+    margin-left: 5px;
+}
+#border{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

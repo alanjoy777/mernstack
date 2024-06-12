@@ -1,0 +1,21 @@
+.main{
+    background-color:white;
+    width: 50%;
+    height: 80%;
+    padding-left: 600px;
+}
+#A{
+
+    color: white;
+    background-color: black;
+    width: 400px;
+    height: 30px;
+    position: sticky;
+    top: 0;
+}
+p{
+    margin-left: 50px;
+}
+.row2{
+    
+}

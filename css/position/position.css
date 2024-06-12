@@ -1,0 +1,30 @@
+.row{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 800px;
+    position: relative;
+}
+
+.col
+{
+    background-color: blueviolet;
+    width: 200px;
+    height: 400px;
+    margin: 10px;
+    position:absolute;
+}
+.col1{
+    left: 250px;
+}
+
+.col2{
+    left: 500px;
+
+
+}
+.col3{
+    left:750px ;
+}
+.col4{
+    left: 1000px;
+}

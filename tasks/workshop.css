@@ -1,0 +1,22 @@
+.slct{
+    width: 113px;
+    position: absolute;
+    left: 315px;
+    top: 27px;
+
+}
+p{
+    text-decoration: underline;
+}
+#abc{
+    width: 170px;
+}
+#asd{
+    width: 170px;
+}
+th{
+    text-align: left;
+}
+span{
+    margin-left: 540px;
+}
